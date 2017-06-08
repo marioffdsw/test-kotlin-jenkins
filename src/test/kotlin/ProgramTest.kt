@@ -11,6 +11,6 @@ class ProgramTest {
 
     val result = sum(x,y)
 
-    assertEquals( 8, result )
+    assertEquals( 9, result )
   }
 }
