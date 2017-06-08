@@ -5,8 +5,7 @@ class MyTests : StringSpec() {
   init {
 
     "length should return size of string" {
-      "hello".length shouldBe 6
+      "hello".length shouldBe 5
     }
-
   }
 }
